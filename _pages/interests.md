@@ -15,6 +15,18 @@ permalink: /interests/
 
 Here is the page for my interests
 
+
+## Machine Learning
+I am extremely interested in machine learning: theoretical developments,
+in the context of new technologies, but particularly in scientific applications.
+In any career progression, I am hopeful to work developing machine learning
+models to solve interesting problems. Of particular interest is geometric
+machine learning in its many guises: I am curious about the application of
+normalising flows in high-energy physics contexts, and have developed the
+HEPGraphs package for interfacing high-energy physics data to the
+`Pytorch-Geometric` framework.
+
+
 ## Python Development
 
 In my spare time, I like to develop Python packages, to help develop my advanced
