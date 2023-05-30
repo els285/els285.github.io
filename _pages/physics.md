@@ -15,8 +15,8 @@ permalink: /physics/
 
 <!-- # Physics  -->
 
-I work with the ATLAS Collaboration in CERN, Geneva, on several different areas
-of high-energy particle physics.
+I work with the ATLAS Collaboration at the Large Hadron Collider (LHC) at CERN,
+Geneva, on several different areas of high-energy particle physics.
 
 ## Properties of the Top Quark
 The top quark is the heaviest fundamental particle. This fact alone means that
@@ -28,7 +28,14 @@ I am interested in properties of the top quark, particularly how it spins. We
 have studied top quark spin correlations and polarisations using the ATLAS Run-2
 dataset in several top production mechanisms. 
 
-<img alt="alt_text" width="1000px" src="https://user-images.githubusercontent.com/68130081/228815719-80efe479-eed6-4b46-937a-ab127f81e001.png" />
+<img alt="alt_text" width="1000px"
+src="https://user-images.githubusercontent.com/68130081/228815719-80efe479-eed6-4b46-937a-ab127f81e001.png"
+/>
+
+Our paper [Observing ttZ spin correlations at the
+LHC](https://link.springer.com/article/10.1140/epjc/s10052-021-09605-8)
+describes the phenomenology and proposed measurements of top-quark spin
+properties at the LHC. 
 
 
 ## Quantum Information in Collider Physics
