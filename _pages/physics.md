@@ -35,7 +35,7 @@ src="https://user-images.githubusercontent.com/68130081/228815719-80efe479-eed6-
 Our paper [Observing ttZ spin correlations at the
 LHC](https://link.springer.com/article/10.1140/epjc/s10052-021-09605-8)
 describes the phenomenology and proposed measurements of top-quark spin
-properties at the LHC. 
+properties in ttZ production at the LHC. 
 
 
 ## Quantum Information in Collider Physics
