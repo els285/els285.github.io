@@ -5,9 +5,9 @@ main:
   - title: "About"
     url: /about/
   - title: "Physics"
-    url: /physics/
+    url: /physics_wide/
   - title: "Interests"
-    url: /interests/
+    url: /interests_wide/
 
   - title: "Contact"
     url: /contact/

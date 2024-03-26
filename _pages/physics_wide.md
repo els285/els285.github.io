@@ -1,4 +1,13 @@
 ---
+layout: single
+author_profile: TRUE
+
+title: Physics
+usemathjax: true
+permalink: /physics/
+classes: wide
+---
+<!-- ---
 defaults:
   # _pages
   - scope:
@@ -11,7 +20,7 @@ defaults:
 title: Physics
 usemathjax: true
 permalink: /physics/
----
+--- -->
 
 
 
@@ -30,7 +39,7 @@ I am interested in properties of the top quark, particularly how it spins. We
 have studied top quark spin correlations and polarisations using the ATLAS Run-2
 dataset in several top production mechanisms. 
 
-<img alt="alt_text" width="1000px"
+<img alt="alt_text" width="600px"
 src="https://user-images.githubusercontent.com/68130081/241943301-9f1e5fe1-2c52-4817-a2d9-df390f6d0033.png"
 />
 
