@@ -1,12 +1,15 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: double
-      author_profile: true
+# defaults:
+#   # _pages
+#   - scope:
+#       path: ""
+#       type: pages
+#     values:
+#       layout: double
+#       author_profile: true
+
+layout: single
+author_profile: TRUE
 
 title: Interests
 usemathjax: true
