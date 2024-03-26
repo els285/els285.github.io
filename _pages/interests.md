@@ -11,6 +11,8 @@ defaults:
 title: Interests
 usemathjax: true
 permalink: /interests/
+classes: wide
+
 ---
 
 Here is the page for my interests

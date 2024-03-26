@@ -11,6 +11,8 @@ defaults:
 title: About
 usemathjax: true
 permalink: /about/
+classes: wide
+
 ---
 
 I am 28 years old, living in Geneva, working at CERN. I'm originally from
