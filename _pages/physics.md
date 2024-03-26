@@ -25,14 +25,15 @@ Geneva, on several different areas of high-energy particle physics.
 
 ![image](https://user-images.githubusercontent.com/68130081/241943301-9f1e5fe1-2c52-4817-a2d9-df390f6d0033.png){: style="float: left"}
 
-The top quark is the heaviest fundamental particle. This fact alone means that
+Cheesey cheese
+<!-- The top quark is the heaviest fundamental particle. This fact alone means that
 the top quark is extremely interesting to study. It provides us with a test for
 the Standard Model of Particle Physics, and allows us to investigate
 avenues of New Physics (i.e. physics not in the Standard Model.)
 
 I am interested in properties of the top quark, particularly how it spins. We
 have studied top quark spin correlations and polarisations using the ATLAS Run-2
-dataset in several top production mechanisms. 
+dataset in several top production mechanisms.  -->
 
 <!-- <img alt="alt_text" width="1000px"
 src="https://user-images.githubusercontent.com/68130081/241943301-9f1e5fe1-2c52-4817-a2d9-df390f6d0033.png"
