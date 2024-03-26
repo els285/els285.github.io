@@ -11,7 +11,7 @@ defaults:
 title: About
 usemathjax: true
 permalink: /about/
-classes: wide
+# classes: wide
 
 ---
 
