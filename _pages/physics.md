@@ -1,4 +1,13 @@
 ---
+layout: single
+author_profile: TRUE
+
+title: Physics
+usemathjax: true
+permalink: /physics/
+classes: wide
+---
+<!-- ---
 defaults:
   # _pages
   - scope:
@@ -11,7 +20,9 @@ defaults:
 title: Physics
 usemathjax: true
 permalink: /physics/
----
+--- -->
+
+
 
 <!-- # Physics  -->
 
