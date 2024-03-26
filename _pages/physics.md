@@ -5,7 +5,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: double
       author_profile: TRUE
 
 title: Physics
